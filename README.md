@@ -12,10 +12,14 @@ This project is an interactive **HR Dashboard** built using **Power BI**. The da
 - Employee Data(Excel/CSV)  
 - HR Metrics(Leave balance, salary, qualifications, etc.)  
 
-Tools & Technologies :
+## Tools & Technologies :
 - Power BI(For Data Visualization)  
 - Excel/CSV** (For data storage)  
 
 ## How to Use  
 1. Clone the repository:  https://github.com/swetha642001/HR-Data-Analysis-Dashboard/blob/main/hr-data.xlsx
+
+##  Dashboard Image:
+   <link>< a herf=C:\swetha\HR DASH PIC></a></link>
+   
    
