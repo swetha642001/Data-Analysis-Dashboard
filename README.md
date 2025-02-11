@@ -20,6 +20,12 @@ This project is an interactive **HR Dashboard** built using **Power BI**. The da
 1. Clone the repository:  https://github.com/swetha642001/HR-Data-Analysis-Dashboard/blob/main/hr-data.xlsx
 
 ##  Dashboard Image:
+<html>
+   <link><a herf=C:\swetha\HR DASH PIC></a> </link> 
+   <body>
+      
+   </body>
+</html>
    <link><a herf=C:\swetha\HR DASH PIC></a> </link> 
    
    
