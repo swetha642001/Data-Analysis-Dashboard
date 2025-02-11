@@ -7,3 +7,14 @@ Features:
 - Salary Breakdown**: Provides salary distribution based on qualification.  
 - Demographics**: Visual representation of age distribution by gender.  
 - Job Title Trends**: Analyzes employee count by different job roles.  
+  Data Sources  
+- Employee Data(Excel/CSV)  
+- HR Metrics(Leave balance, salary, qualifications, etc.)  
+
+Tools & Technologies  
+- Power BI(For Data Visualization)  
+- Excel/CSV** (For data storage)  
+
+## How to Use  
+1. Clone the repository:  
+   
